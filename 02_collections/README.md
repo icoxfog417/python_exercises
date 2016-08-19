@@ -47,6 +47,9 @@ x[1:]
 > 0, 2, 4
 ```
 
+また、標準で搭載されている[`collections`](http://docs.python.jp/3/library/collections.html)や[`itertools`](http://docs.python.jp/3.5/library/itertools.html)は非常に高機能であり、複雑な機能を簡単に書くことができます。
+そのため、多少複雑な処理は自分で実装する前にこれらのパッケージに機能がないか探してみることをお勧めします。
+
 **String format**
 
 * `format`関数を使用することで、文字列内に値を埋め込むことができます。
