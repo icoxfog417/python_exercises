@@ -27,14 +27,14 @@ Pythonプログラムを実行して、好きな文字列を出力してくだ�
 * Pythonでは、`def`というキーワードで関数を記述することができます。
 * 以下は、単純な足し算を行う関数です。値を返す時は、`return`を利用します。
 
-```
+```python
 def plus(x1, x2):
     return x1 + x2
 ```
 
 * 関数の中で使用した変数は、その関数の中でのみ有効です。つまり、以下のようなことはできません
 
-```
+```python
 def plus_1(x):
     one = 1
     return one + x
@@ -44,7 +44,7 @@ print(one)  # one is not defined!!
 
 * 逆に、関数の外で宣言していた変数は利用することが可能です
 
-```
+```python
 one = 1
 
 def plus_1(x):
