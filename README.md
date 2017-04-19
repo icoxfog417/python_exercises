@@ -41,5 +41,5 @@ Git、Pythonの細かい使い方や文法についてはここでは触れま�
   * Pythonのクラスと単体テストについて知ろう
 * [Use Packages](https://github.com/icoxfog417/python_exercises/tree/master/05_use_packages)
   * 便利なライブラリを使って処理を実装してみよう
-* [Exception & logging]()
+* [Exception & logging](https://github.com/icoxfog417/python_exercises/tree/master/06_exception_logging)
   * 例外を処理し、記録しよう
