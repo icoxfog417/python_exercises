@@ -8,18 +8,18 @@ Pythonの基礎的な処理を学ぶためのリポジトリです。
 
 * [Git](https://git-scm.com/)
 * [Python](https://www.python.org/downloads/)
- * Pythonは3系を使います
+  * Pythonは3系を使います
 * プログラムを開発するための、好きなエディタ
- * [PyCharm](https://www.jetbrains.com/pycharm/)がおすすめです
+  * [PyCharm](https://www.jetbrains.com/pycharm/)がおすすめです
 
 Git、Pythonの細かい使い方や文法についてはここでは触れません。困ったときは、以下のサイトなどを参考にしてみてください。
 
 * Git
- * [Git チュートリアル](https://www.atlassian.com/ja/git/tutorial/git-basics)
- * [使い始める Git](http://qiita.com/icoxfog417/items/617094c6f9018149f41f)
+  * [Git チュートリアル](https://www.atlassian.com/ja/git/tutorial/git-basics)
+  * [使い始める Git](http://qiita.com/icoxfog417/items/617094c6f9018149f41f)
 * Python
- * [Python チュートリアル](http://docs.python.jp/3/tutorial/index.html)
- * [Pythonを書き始める前に見るべきTips](http://qiita.com/icoxfog417/items/e8f97a6acad07903b5b0)
+  * [Python チュートリアル](http://docs.python.jp/3/tutorial/index.html)
+  * [Pythonを書き始める前に見るべきTips](http://qiita.com/icoxfog417/items/e8f97a6acad07903b5b0)
 
 ## How to begin
 
@@ -32,12 +32,14 @@ Git、Pythonの細かい使い方や文法についてはここでは触れま�
 ## Exercises
 
 * [Let's Execute Python](https://github.com/icoxfog417/python_exercises/tree/master/01_execute_python)
- * Pythonプログラムを実行してみよう
+  * Pythonプログラムを実行してみよう
 * [Collections](https://github.com/icoxfog417/python_exercises/tree/master/02_collections)
- * Pythonで配列のデータを処理してみよう
+  * Pythonで配列のデータを処理してみよう
 * [Find Pattern](https://github.com/icoxfog417/python_exercises/tree/master/03_find_pattern)
- * 文字列の中から特定のパターンを見つけてみよう
+  * 文字列の中から特定のパターンを見つけてみよう
 * [Class](https://github.com/icoxfog417/python_exercises/tree/master/04_class)
- * Pythonのクラスと単体テストについて知ろう
+  * Pythonのクラスと単体テストについて知ろう
 * [Use Packages](https://github.com/icoxfog417/python_exercises/tree/master/05_use_packages)
- * 便利なライブラリを使って処理を実装してみよう
+  * 便利なライブラリを使って処理を実装してみよう
+* [Exception & logging]()
+  * 例外を処理し、記録しよう
