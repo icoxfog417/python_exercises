@@ -16,7 +16,7 @@ Pythonの基礎的な処理を学ぶためのリポジトリです。
 
 ## How to begin
 
-以下が、Exerciseの手順です。GitもPythonも初めて、という方は[Warming-up]()を参照してください。
+以下が、Exerciseの手順です。GitもPythonも初めて、という方は[Warming-up](https://github.com/icoxfog417/python_exercises#warming-up)を参照してください。
 
 1. 右上にある「Fork」というボタンから、本リポジトリをFork(=コピー)してください。
 2. forkしたリポジトリを、`git clone`によって手元の端末に取ってきます。これで準備は完了です。
