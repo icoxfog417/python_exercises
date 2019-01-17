@@ -43,9 +43,9 @@ Pythonの基礎的な処理を学ぶためのリポジトリです。
 
 本項はGitもPythonも初めて、という方のためにHow to beginの内容をより詳細に解説します。解説は以下の通りとなります。
 
-1. Gitを理解する
-2. Pythonのコードを書く
-3. Gitでバージョン管理をする
+1. [Gitを理解する](https://github.com/icoxfog417/python_exercises#git%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B)
+2. [Pythonのコードを書く](https://github.com/icoxfog417/python_exercises#python%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F)
+3. [Gitでバージョン管理をする](https://github.com/icoxfog417/python_exercises#git%E3%81%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%82%92%E3%81%99%E3%82%8B)
 
 ### Gitを理解する
 
